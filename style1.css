@@ -1,0 +1,12 @@
+.blogs img{
+    height: 200px;
+}
+.carousel-inner img{
+    height: 100vh;
+    object-fit: contain;
+}
+p{
+    text-align: center;
+    font-size: 35;
+    font-family: 'Times New Roman';
+}
